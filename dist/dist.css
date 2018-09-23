@@ -1,17 +1,17 @@
-#notes_column .note .date, .notes .note .date {
-  display: none;
-}
-#notes_column .note .note, .notes .note .note {
+#notes_column .note, .notes .note {
   padding: 2px !important;
+  max-height: 1.5em;
+  overflow: hidden;
 }
 #notes_column .note .name, #notes_column .note .note-preview, .notes .note .name, .notes .note .note-preview {
   display: inline !important;
 }
-#notes_column .note .note-preview, .notes .note .note-preview {
-  font-size: 80%;
-  opacity: 0.8;
+#notes_column .note .name, .notes .note .name {
+  font-size: 13px;
 }
-
-/* Todo: Show date for selected note */
+#notes_column .note .note-preview, .notes .note .note-preview {
+  font-size: 12px !important;
+  opacity: 0.7;
+}
 
 /*# sourceMappingURL=dist.css.map */
