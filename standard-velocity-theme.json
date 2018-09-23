@@ -3,10 +3,10 @@
         "name": "Standard Velocity Theme",
         "content_type": "SN|Theme",
         "area": "editor-editor",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "description": "Standard Velocity!",
         "url": "https://github.com/gwynm/standard-velocity-theme",
-        "download_url": "https://github.com/gwynm/standard-velocity-theme/archive/v0.0.1.zip",
+        "download_url": "https://github.com/gwynm/standard-velocity-theme/archive/v0.0.2.zip",
         "latest_url": "https://raw.githubusercontent.com/gwynm/standard-velocity-theme/master/standard-velocity-theme.json",
         "marketing_url": "",
         "thumbnail_url": ""
